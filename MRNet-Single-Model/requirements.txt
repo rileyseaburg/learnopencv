@@ -32,7 +32,7 @@ sklearn==0.0
 tensorboard==2.3.0
 tensorboard-plugin-wit==1.7.0
 threadpoolctl==2.1.0
-torch==1.6.0
+torch==2.13.0
 torchsample @ git+https://github.com/ncullen93/torchsample@ea4d1b3975f68be0521941e733887ed667a1b46e
 torchvision==0.7.0
 tqdm==4.49.0
